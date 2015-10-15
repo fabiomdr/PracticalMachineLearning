@@ -1,6 +1,8 @@
 Practical Machine Learning Project - Report on predicting the manner that exercises are done  
 ============================================================================================
 
+Link to the report page in html: [click here](http://fabiomdr.github.io/PracticalMachineLearning/report.html)
+
 ### Assignment  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of 
@@ -12,3 +14,5 @@ ways. More information is available from the website here: http://groupware.les.
 Weight Lifting Exercise Dataset).   
 
 The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.  
+
+
