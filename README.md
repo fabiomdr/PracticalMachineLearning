@@ -1,6 +1,8 @@
 Practical Machine Learning Project - Report on predicting the manner that exercises are done  
 ============================================================================================
 
+Link to the report page in html: [click here](http://fabiomdr.github.io/PracticalMachineLearning/report.html)
+
 ### Assignment  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of 
